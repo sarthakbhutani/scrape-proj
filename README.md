@@ -6,7 +6,10 @@
 - do ```pip3 install -r requirements.txt```
 - to start the server ```uvicorn app.server:app --reload --port 9200```
 
+#Demo 
+[Demo](https://youtu.be/7VHWaJPrxvo)
 ------
+
 
 ## CURL for login - 
 ```
